@@ -5,12 +5,12 @@
     <servers>
         <server>
             <username>admin</username>
-            <password>cmVmdGtuOjAxOjE3NTI5NzQzNzQ6bjZSVzNJODdVVHJ2WDBVdFh2ZW5ma1pJOWxO</password>
+            <password>cmVmdGtuOjAxOjE3NjYyNTg0MTk6VVRZRGtqVW5lcUt2cW1yYnRJeUVGRFlQY01Y</password>
             <id>central</id>
         </server>
         <server>
             <username>admin</username>
-            <password>cmVmdGtuOjAxOjE3NTI5NzQzNzQ6bjZSVzNJODdVVHJ2WDBVdFh2ZW5ma1pJOWxO</password>
+            <password>cmVmdGtuOjAxOjE3NjYyNTg0MTk6VVRZRGtqVW5lcUt2cW1yYnRJeUVGRFlQY01Y</password>
             <id>snapshots</id>
         </server>
     </servers>
@@ -23,13 +23,13 @@
                     </snapshots>
                     <id>central</id>
                     <name>libs-release</name>
-                    <url>http://jfrog.azureb44.xyz:8081/artifactory/libs-release</url>
+                    <url>http://jfrog.k8sgk989.xyz:8081/artifactory/libs-release</url>
                 </repository>
                 <repository>
                     <snapshots />
                     <id>snapshots</id>
                     <name>libs-snapshot</name>
-                    <url>http://jfrog.azureb44.xyz:8081/artifactory/libs-snapshot</url>
+                    <url>http://jfrog.k8sgk989.xyz:8081/artifactory/libs-snapshot</url>
                 </repository>
             </repositories>
             <pluginRepositories>
@@ -39,13 +39,13 @@
                     </snapshots>
                     <id>central</id>
                     <name>libs-release</name>
-                    <url>http://jfrog.azureb44.xyz:8081/artifactory/libs-release</url>
+                    <url>http://jfrog.k8sgk989.xyz:8081/artifactory/libs-release</url>
                 </pluginRepository>
                 <pluginRepository>
                     <snapshots />
                     <id>snapshots</id>
                     <name>libs-snapshot</name>
-                    <url>http://jfrog.azureb44.xyz:8081/artifactory/libs-snapshot</url>
+                    <url>http://jfrog.k8sgk989.xyz:8081/artifactory/libs-snapshot</url>
                 </pluginRepository>
             </pluginRepositories>
             <id>artifactory</id>
